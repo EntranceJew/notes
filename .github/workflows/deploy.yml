@@ -30,7 +30,7 @@ jobs:
         uses: konstfish/quartz-build-action@main
         if: ${{ steps.check-changes.outputs.changed == 'true' }}
         with:
-          source: docs
+          source: ./
           page_title: "Everything I wanted to tell you."
           quartz_config: .github/quartz.config.ts
           quartz_layout: .github/quartz.layout.ts
