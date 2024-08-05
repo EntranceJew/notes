@@ -11,12 +11,8 @@
             "id": "44e5184f199416c5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "index.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,6 +140,51 @@
   },
   "active": "44e5184f199416c5",
   "lastOpenFiles": [
-    "index.md"
+    "index.md",
+    "content/index.md",
+    "content",
+    "quartz/package-lock.json",
+    "quartz/node_modules/mathjax-full/es5/output/chtml/fonts/woff-v2/MathJax_Size4-Regular.woff",
+    "quartz/node_modules/mathjax-full/es5/output/chtml/fonts/woff-v2/MathJax_Typewriter-Regular.woff",
+    "quartz/node_modules/mathjax-full/es5/output/chtml/fonts/woff-v2/MathJax_Zero.woff",
+    "quartz/node_modules/mathjax-full/es5/output/chtml/fonts/woff-v2/MathJax_Vector-Regular.woff",
+    "quartz/node_modules/mathjax-full/es5/output/chtml/fonts/woff-v2/MathJax_Vector-Bold.woff",
+    "quartz/node_modules/mathjax-full/es5/output/chtml/fonts/woff-v2/MathJax_Size2-Regular.woff",
+    "quartz/node_modules/mathjax-full/es5/output/chtml/fonts/woff-v2/MathJax_SansSerif-Regular.woff",
+    "quartz/node_modules/mathjax-full/es5/output/chtml/fonts/woff-v2/MathJax_Size3-Regular.woff",
+    "quartz/node_modules/mathjax-full/CONTRIBUTING.md",
+    "quartz/node_modules/speech-rule-engine/README.md",
+    "quartz/node_modules/tsx/node_modules/@esbuild/win32-x64/README.md",
+    "quartz/node_modules/speech-rule-engine/lib/README.md",
+    "quartz/node_modules/preact/README.md",
+    "quartz/node_modules/mj-context-menu/README.md",
+    "quartz/node_modules/@citation-js/plugin-bibtex/README.md",
+    "quartz/node_modules/yargs/README.md",
+    "quartz/node_modules/minimatch/README.md",
+    "quartz/node_modules/@asamuzakjp/dom-selector/README.md",
+    "quartz/node_modules/parse-latin/readme.md",
+    "quartz/node_modules/minipass/README.md",
+    "quartz/node_modules/@ungap/structured-clone/README.md",
+    "quartz/node_modules/property-information/readme.md",
+    "quartz/node_modules/vfile/readme.md",
+    "quartz/node_modules/micromark-extension-gfm-autolink-literal/readme.md",
+    "quartz/node_modules/tsx/node_modules/esbuild/LICENSE.md",
+    "quartz/node_modules/mdast-util-find-and-replace/node_modules/unist-util-is/readme.md",
+    "quartz/node_modules/psl/browserstack-logo.svg",
+    "quartz/node_modules/mdast-util-from-markdown/readme.md",
+    "quartz/node_modules/xmlchars/README.md",
+    "quartz/node_modules/rehype-mathjax/readme.md",
+    "quartz/node_modules/unist-util-find-after/node_modules/unist-util-is/readme.md",
+    "quartz/node_modules/tr46/node_modules/punycode/README.md",
+    "quartz/node_modules/hast-util-to-html/node_modules/@types/unist/README.md",
+    "quartz/quartz/static/og-image.png",
+    "quartz/quartz/static/icon.png",
+    "quartz/docs/images/quartz transform pipeline.png",
+    "quartz/docs/images/quartz layout.png",
+    "quartz/docs/images/github-quick-setup.png",
+    "quartz/docs/images/github-init-repo-options.png",
+    "quartz/docs/images/giscus-results.png",
+    "quartz/docs/images/giscus-repo.png",
+    "quartz/docs/images/giscus-example.png"
   ]
 }
