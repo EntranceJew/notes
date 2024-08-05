@@ -35,10 +35,10 @@ jobs:
         with:
           source: docs
           page_title: "Everything I wanted to tell you."
-          # quartz_config: .github/quartz.config.ts
-          # quartz_layout: .github/quartz.layout.ts
-          # quartz_icon: .github/icon.png
-          # quartz_banner: .github/og-image.png
+          quartz_config: .github/quartz.config.ts
+          quartz_layout: .github/quartz.layout.ts
+          quartz_icon: .github/icon.png
+          quartz_banner: .github/banner.jpg
       - name: Upload artifact
         if: ${{ steps.check-changes.outputs.changed == 'true' }}
         uses: actions/upload-pages-artifact@v3
