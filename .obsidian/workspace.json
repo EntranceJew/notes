@@ -8,12 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "44e5184f199416c5",
+            "id": "5e6c720e9db5703f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "kanban",
               "state": {
-                "currentVersion": "1.6.7"
+                "file": "Board.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
               }
             }
           }
@@ -83,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,15 +129,25 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "Board.md"
+              }
+            }
+          },
+          {
+            "id": "e712bbe49edb88fe",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 286.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -137,11 +156,14 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5cb001062f3dbab8",
+  "active": "5e6c720e9db5703f",
   "lastOpenFiles": [
+    "Board.md",
+    "List of Words My Dog Knows.md",
     "index.md",
     "content/index.md",
     "content",
@@ -177,8 +199,6 @@
     "quartz/node_modules/xmlchars/README.md",
     "quartz/node_modules/rehype-mathjax/readme.md",
     "quartz/node_modules/unist-util-find-after/node_modules/unist-util-is/readme.md",
-    "quartz/node_modules/tr46/node_modules/punycode/README.md",
-    "quartz/node_modules/hast-util-to-html/node_modules/@types/unist/README.md",
     "quartz/quartz/static/og-image.png",
     "quartz/quartz/static/icon.png",
     "quartz/docs/images/quartz transform pipeline.png",
