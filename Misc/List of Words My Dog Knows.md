@@ -14,10 +14,12 @@
 - Keep Going
 - Stop
 - Traitor
+- Innocent
 - Prison
 - Limit 
 - Drop It
 - No More
+- Back Off
 
 ## Verbs: 
 - ### Go
