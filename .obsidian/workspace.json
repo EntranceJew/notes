@@ -12,11 +12,16 @@
             "id": "f0c6514e5fe54d04",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Misc/List of Words My Dog Knows.md",
-                "mode": "source",
-                "source": false
+                "file": "TODO/Board.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
               }
             }
           }
@@ -105,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/List of Words My Dog Knows.md",
+                "file": "TODO/Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/List of Words My Dog Knows.md",
+                "file": "TODO/Board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/List of Words My Dog Knows.md"
+                "file": "TODO/Board.md"
               }
             }
           },
@@ -175,15 +180,17 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f0c6514e5fe54d04",
+  "active": "5cb001062f3dbab8",
   "lastOpenFiles": [
-    "Visuals.md",
+    "TODO",
+    "Art/Visuals.md",
+    "Art",
+    "index.md",
+    "TODO/Board.md",
     "Misc/List of Words My Dog Knows.md",
     "Misc/List of Words My Cat Knows.md",
     "@EntranceJew.md",
     "Misc",
-    "Board.md",
-    "index.md",
     "content/index.md",
     "content",
     "quartz/package-lock.json",
@@ -193,7 +200,6 @@
     "quartz/node_modules/mathjax-full/es5/output/chtml/fonts/woff-v2/MathJax_Vector-Regular.woff",
     "quartz/node_modules/mathjax-full/es5/output/chtml/fonts/woff-v2/MathJax_Vector-Bold.woff",
     "quartz/node_modules/mathjax-full/es5/output/chtml/fonts/woff-v2/MathJax_Size2-Regular.woff",
-    "quartz/node_modules/mathjax-full/es5/output/chtml/fonts/woff-v2/MathJax_SansSerif-Regular.woff",
     "quartz/node_modules/mathjax-full/CONTRIBUTING.md",
     "quartz/node_modules/speech-rule-engine/README.md",
     "quartz/node_modules/tsx/node_modules/@esbuild/win32-x64/README.md",
@@ -213,7 +219,6 @@
     "quartz/node_modules/tsx/node_modules/esbuild/LICENSE.md",
     "quartz/node_modules/mdast-util-find-and-replace/node_modules/unist-util-is/readme.md",
     "quartz/node_modules/psl/browserstack-logo.svg",
-    "quartz/node_modules/mdast-util-from-markdown/readme.md",
     "quartz/quartz/static/og-image.png",
     "quartz/quartz/static/icon.png",
     "quartz/docs/images/quartz transform pipeline.png",
