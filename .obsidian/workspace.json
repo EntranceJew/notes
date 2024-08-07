@@ -12,11 +12,10 @@
             "id": "9bbf99e751a8ebf8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
                 "file": "@EntranceJew.md",
-                "mode": "source",
-                "source": false
+                "staged": false
               }
             }
           },
@@ -117,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@EntranceJew.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "@EntranceJew.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,9 +153,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "@EntranceJew.md"
-              }
+              "state": {}
             }
           },
           {
@@ -187,10 +182,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e712bbe49edb88fe",
+  "active": "9bbf99e751a8ebf8",
   "lastOpenFiles": [
-    "Misc/List of Words My Cat Knows.md",
     "Misc/List of Words My Dog Knows.md",
+    "Misc/List of Words My Cat Knows.md",
+    "@EntranceJew.md",
     "Visuals.md",
     "Misc",
     "Board.md",
@@ -225,7 +221,6 @@
     "quartz/node_modules/mdast-util-find-and-replace/node_modules/unist-util-is/readme.md",
     "quartz/node_modules/psl/browserstack-logo.svg",
     "quartz/node_modules/mdast-util-from-markdown/readme.md",
-    "quartz/node_modules/xmlchars/README.md",
     "quartz/quartz/static/og-image.png",
     "quartz/quartz/static/icon.png",
     "quartz/docs/images/quartz transform pipeline.png",
