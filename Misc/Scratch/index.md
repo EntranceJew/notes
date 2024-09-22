@@ -1,0 +1,1 @@
+Don't expect a hardlink in this folder to survive, it's volatile.
