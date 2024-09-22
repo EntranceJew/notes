@@ -30,12 +30,14 @@ koboldcpp_cu12.exe
 
 ## dwm.exe
 - You can always kill dwm.exe for a brief interruption.
-- disable fast startup
-	- Reminder to set windows to not disable your USBs just because it is bored.
-```cmd
-control /name Microsoft.PowerOptions /page pageGlobalSettings
-```
-
+- **Parsec Virtual Display Driver** was doubling my VRAM dwm.exe wanted
+	- `win+R`, `**devmgmt.msc**`
+	- Uninstall it if you have a bunch of monitors. Probably TeamViewer's stuff too.
+	- Anything that appears under **Display adapters** in **Device Manager** is a threat to your VRAM, probably.
+- Disable **Fast Startup**:
+	- `win+R`, `control /name Microsoft.PowerOptions /page pageGlobalSettings`
+	- Uncheck all that stuff.
+	- While you're here: reminder to set windows to not disable your USBs just because it is bored.
 - Reduce the use of the hibernation file:
 	- `powercfg /h /type reduced`
 - Disable all the flashy UI stuff:
