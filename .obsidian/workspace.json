@@ -11,15 +11,26 @@
             "id": "f0c6514e5fe54d04",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Static/How To Flipper Zero Fonts/aseprite_grid.png"
+              }
+            }
+          },
+          {
+            "id": "6d420f09791b633d",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Scratch/How To Flipper Zero Fonts/index.md",
+                "file": "Misc/Scratch/How To Flipper Zero Fonts.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Scratch/How To Flipper Zero Fonts/index.md",
+                "file": "Misc/Scratch/How To Flipper Zero Fonts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Scratch/How To Flipper Zero Fonts/index.md",
+                "file": "Misc/Scratch/How To Flipper Zero Fonts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Scratch/How To Flipper Zero Fonts/index.md"
+                "file": "Misc/Scratch/How To Flipper Zero Fonts.md"
               }
             }
           },
@@ -155,31 +166,32 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f0c6514e5fe54d04",
+  "active": "6d420f09791b633d",
   "lastOpenFiles": [
-    "Misc/Scratch/LLM Notes.md",
-    "Misc/Scratch/How To Flipper Zero Fonts/index.md",
-    "Misc/Scratch/How To Flipper Zero Fonts/How To Flipper Zero Fonts.md",
-    "Misc/Scratch/How To Flipper Zero Fonts/tested_font.png",
-    "Misc/Scratch/How To Flipper Zero Fonts/fontforge_setup.png",
-    "Misc/Scratch/How To Flipper Zero Fonts/pixelfont_setup.png",
-    "Misc/Scratch/How To Flipper Zero Fonts/bdfconv_result.png",
-    "Misc/Scratch/How To Flipper Zero Fonts/bdfconv_output.png",
-    "Misc/Scratch/How To Flipper Zero Fonts/aseprite_grid.png",
-    "Misc/Scratch/How To Flipper Zero Fonts",
+    "Misc/Scratch/index.md",
     "Misc/Scratch/How To Flipper Zero Fonts.md",
+    "Misc/Scratch/Untitled.md",
+    "Static/How To Flipper Zero Fonts/fontforge_setup.png",
+    "Static/How To Flipper Zero Fonts/tested_font.png",
+    "Static/How To Flipper Zero Fonts/pixelfont_setup.png",
+    "Static/How To Flipper Zero Fonts/aseprite_grid.png",
+    "Misc/Scratch/LLM Notes.md",
+    "Static/How To Flipper Zero Fonts",
+    "Static",
+    "TODO/Board.md",
+    "Art/Visuals.md",
+    "Static/How To Flipper Zero Fonts/bdfconv_result.png",
+    "Static/How To Flipper Zero Fonts/bdfconv_output.png",
+    "Misc/Scratch/How To Flipper Zero Fonts",
     "Misc/Scratch/Font Tutorial/tested_font.png",
     "Misc/Scratch/Font Tutorial/fontforge_setup.png",
     "Misc/Scratch/Font Tutorial/pixelfont_setup.png",
     "Misc/Scratch/Font Tutorial/bdfconv_result.png",
     "Misc/Scratch/Font Tutorial",
-    "TODO/Board.md",
     "Misc/Untitled.md",
-    "Misc/Scratch/index.md",
     "Misc/Scratch",
     "Misc/List of Words My Dog Knows.md",
     "TODO",
-    "Art/Visuals.md",
     "Art",
     "index.md",
     "Misc/List of Words My Cat Knows.md",
@@ -188,8 +200,6 @@
     "content/index.md",
     "content",
     "quartz/package-lock.json",
-    "quartz/node_modules/mathjax-full/es5/output/chtml/fonts/woff-v2/MathJax_Size4-Regular.woff",
-    "quartz/node_modules/mathjax-full/es5/output/chtml/fonts/woff-v2/MathJax_Typewriter-Regular.woff",
     "quartz/node_modules/mathjax-full/CONTRIBUTING.md",
     "quartz/node_modules/speech-rule-engine/README.md",
     "quartz/node_modules/tsx/node_modules/@esbuild/win32-x64/README.md",
@@ -201,7 +211,6 @@
     "quartz/node_modules/minimatch/README.md",
     "quartz/node_modules/@asamuzakjp/dom-selector/README.md",
     "quartz/node_modules/parse-latin/readme.md",
-    "quartz/node_modules/minipass/README.md",
-    "quartz/node_modules/@ungap/structured-clone/README.md"
+    "quartz/node_modules/minipass/README.md"
   ]
 }
